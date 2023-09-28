@@ -1,0 +1,19 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "sample code to learn nodejs framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js" 
+  },
+  "keywords": [
+    "nodejs",
+    "fall2023",
+    "comp3123",
+    "server",
+    "harlan"
+  ],
+  "author": "Harlan Ferguson",
+  "license": "ISC"
+}
