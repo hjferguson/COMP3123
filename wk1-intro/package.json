@@ -1,0 +1,11 @@
+{
+  "name": "wk1-intro",
+  "version": "1.0.0",
+  "description": "deez",
+  "main": "index.js",
+  "scripts": {
+    "test": "nuts"
+  },
+  "author": "",
+  "license": "ISC"
+}
