@@ -1,0 +1,30 @@
+
+.App {
+  background-color: #282c34; 
+  color: white; 
+}
+
+
+.person-details {
+    background-color: #f8f9fa; 
+    color: #212529;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+}
+
+
+.person-details img {
+    border-radius: 10px; 
+    margin-bottom: 10px;
+}
+
+
+@media (max-width: 768px) {
+    .person-details {
+        text-align: left;
+    }
+}
+
+
